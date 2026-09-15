@@ -37,5 +37,4 @@ GameTicket/
    ```
 4. Follow the on-screen menu to book, remove, or upgrade a ticket.
 
-## Author
-Made by Abdelrhman.
+
